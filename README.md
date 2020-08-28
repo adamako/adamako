@@ -1,4 +1,7 @@
-<img src="https://github.com/adamako/lordvins226/blob/master/assets/animation1.gif" width="150" height="150">
+<p>
+<!--   <img src="https://github.com/adamako/lordvins226/blob/master/assets/animation1.gif" width="150" height="200"> -->
+<img src="https://github.com/adamako/adamako/blob/master/assets/Ethereum.gif" width="200" height="150">
+</p>
 
 ## Hello, I'm Adama KO 😄
 > I am fascinated by Mobile development,Cloud computing and Blockchain.
