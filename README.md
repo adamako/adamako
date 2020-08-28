@@ -13,11 +13,11 @@
 - 🌱 I’m currently learning Cloud computing,Ethereum blockchain
 
 <p>
-<img src="https://github.com/adamako/adamako/assets/flutter.svg" width="45" height="45">
-<img src="https://github.com/adamako/adamako/assets/solidity.svg" width="45" height="45">
-<img src="https://github.com/adamako/adamako/assets/ethereum.svg" width="45" height="45">
-<img src="https://github.com/adamako/adamako/assets/google.svg" width="45" height="45">
-<img src="https://github.com/adamako/adamako/assets/kotlin.svg" width="45" height="45">
+<img src="https://github.com/adamako/adamako/blob/master/assets/flutter.svg" width="45" height="45">
+<img src="https://github.com/adamako/adamako/blob/master/assets/solidity.svg" width="45" height="45">
+<img src="https://github.com/adamako/adamako/blob/master/assets/ethereum.svg" width="45" height="45">
+<img src="https://github.com/adamako/adamako/blob/master/assets/google.svg" width="45" height="45">
+<img src="https://github.com/adamako/adamako/blob/master/assets/kotlin.svg" width="45" height="45">
 </p>
 
 <p>
