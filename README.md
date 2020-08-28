@@ -1,16 +1,27 @@
-### Hi there 👋
+<img src="https://github.com/adamako/lordvins226/blob/master/assets/animation1.gif" width="150" height="150">
 
-<!--
-**adamako/adamako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello, I'm Adama KO 😄
+> I am fascinated by Mobile development,Cloud computing and Blockchain.
+> I want to make people life easier through technologies.
+> Student in computer science interested
+> in challenges which require designing solutions that can make
+> a significant impact in people's lives like cloud computing, blockchain and DApps.
 
-Here are some ideas to get you started:
+![Adama's github stats](https://github-readme-stats.vercel.app/api?username=adamako&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Flutter, kotlin, VueJs
+- 🌱 I’m currently learning Cloud computing,Ethereum blockchain
+
+<p>
+<img src="https://github.com/adamako/adamako/assets/flutter.svg" width="45" height="45">
+<img src="https://github.com/adamako/adamako/assets/solidity.svg" width="45" height="45">
+<img src="https://github.com/adamako/adamako/assets/ethereum.svg" width="45" height="45">
+<img src="https://github.com/adamako/adamako/assets/google.svg" width="45" height="45">
+<img src="https://github.com/adamako/adamako/assets/kotlin.svg" width="45" height="45">
+</p>
+
+<p>
+  <img src="https://github.com/lordvins226/lordvins226/blob/master/assets/animation2.gif" width="300" height="300">
+</p>
+
+- 📫 How to reach me: adamako34@gmail.com
