@@ -14,6 +14,7 @@
 
 - 🔭 I’m currently working on Flutter, kotlin, VueJs
 - 🌱 I’m currently learning Cloud computing,Ethereum blockchain
+- 📫 How to reach me: adamako34@gmail.com
 
 <p>
 <img src="https://github.com/adamako/adamako/blob/master/assets/flutter.svg" width="45" height="45">
@@ -27,4 +28,3 @@
   <img src="https://github.com/lordvins226/lordvins226/blob/master/assets/animation2.gif" width="300" height="300">
 </p>
 
-- 📫 How to reach me: adamako34@gmail.com
