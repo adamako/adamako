@@ -4,7 +4,7 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![Twitter: Adamako](https://img.shields.io/twitter/follow/koadamso?style=social)](https://twitter.com/koadamso)
 [![Linkedin: Adamako](https://img.shields.io/badge/-Adamako-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adamako)](https://www.linkedin.com/in/adamako/)
-[![GitHub adamako](https://img.shields.io/github/followers/Adamako?label=follow&style=social)](https://github.com/adamako)
+[![GitHub Adamako](https://img.shields.io/github/followers/Adamako?label=follow&style=social)](https://github.com/adamako)
 <p>
 <!--   <img src="https://github.com/adamako/lordvins226/blob/master/assets/animation1.gif" width="150" height="200"> -->
 <img src="https://github.com/adamako/adamako/blob/master/assets/Ethereum.gif" width="200" height="150">
