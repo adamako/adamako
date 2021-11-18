@@ -23,7 +23,7 @@
 ![Adama's github stats](https://github-readme-stats.vercel.app/api?username=adamako&show_icons=true&theme=tokyonight)
 ![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=adamako&layout=compact&theme=tokyonight)
 
-- 🔭 I’m currently working on Flutter, kotlin, VueJs
+- 🔭 I’m currently working with react-native, firebase, reactJs
 - 🌱 I’m currently learning Cloud computing,Ethereum blockchain
 - 📫 How to reach me: adamako34@gmail.com
 
