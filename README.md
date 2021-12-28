@@ -34,6 +34,7 @@
 <img src="https://github.com/adamako/adamako/blob/master/assets/ethereum.svg" width="45" height="45">
 <img src="https://github.com/adamako/adamako/blob/master/assets/cloud.png" width="45" height="45">
 <img src="https://github.com/adamako/adamako/blob/master/assets/kotlin.svg" width="45" height="45">
+<img src="https://github.com/adamako/adamako/blob/master/assets/react.svg" width="45" height="45">
 </p>
 
 <p>
