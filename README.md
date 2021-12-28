@@ -21,7 +21,8 @@
 > a significant impact in people's lives like cloud computing, blockchain and DApps.
 
 ![Adama's github stats](https://github-readme-stats.vercel.app/api?username=adamako&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=adamako&layout=compact&theme=tokyonight)
+![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=adamako&layout=compact&theme=tokyonight&hide=html&langs_count=8)
+
 
 - 🔭 I’m currently working with react-native, firebase, reactJs
 - 🌱 I’m currently learning Cloud computing,Ethereum blockchain
