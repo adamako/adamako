@@ -20,7 +20,7 @@
 > in challenges which require designing solutions that can make
 > a significant impact in people's lives like cloud computing, blockchain and DApps.
 
-![Adama's github stats](https://github-readme-stats.vercel.app/api?username=adamako&show_icons=true&theme=tokyonight)
+![Adama's github stats](https://github-readme-stats.vercel.app/api?username=adamako&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=adamako&layout=compact&theme=tokyonight)
 
 - 🔭 I’m currently working with react-native, firebase, reactJs
