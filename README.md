@@ -1,26 +1,17 @@
 <img src="assets/header.svg"></img>
 
-
-![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-[![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
-[![Twitter: Adamako](https://img.shields.io/twitter/follow/koadamso?style=social)](https://twitter.com/koadamso)
-[![Linkedin: Adamako](https://img.shields.io/badge/-Adamako-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adamako)](https://www.linkedin.com/in/adamako/)
-[![GitHub Adamako](https://img.shields.io/github/followers/Adamako?label=follow&style=social)](https://github.com/adamako)
-<p>
-<!--   <img src="https://github.com/adamako/lordvins226/blob/master/assets/animation1.gif" width="150" height="200"> -->
-<!-- <img src="https://github.com/adamako/adamako/blob/master/assets/Ethereum.gif" width="200" height="150"> -->
+### 📬 Find me at
+<p><a href="mailto:adamako34@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/adamako"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/koadamso"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://github.com/adamako/)
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/adamako/)
 
 ## Hello, I'm Adama KO 😄
-> I am fascinated by Mobile development,Cloud computing and Blockchain.
-> I want to make people life easier through technologies.
-> Student in computer science interested
-> in challenges which require designing solutions that can make
-> a significant impact in people's lives like cloud computing, blockchain and DApps.
+> My interests are software development,Cloud DevOps, Blockchain,and UI/UX
+Design.
+
+> I'm always learning something new
 
 ![Adama's github stats](https://github-readme-stats.vercel.app/api?username=adamako&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=adamako&layout=compact&theme=tokyonight&hide=html&langs_count=8)
