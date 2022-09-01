@@ -14,7 +14,7 @@
 
 <hr/>
 
-<details>
+<details open>
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
 
@@ -37,9 +37,9 @@
 ![Ansible](https://img.shields.io/badge/ANSIBLE-%231A1918.svg?&style=flat&logo=ansible&logoColor=white)&nbsp;
 ![CLoudFormation](https://img.shields.io/badge/CLOUDFORMATION-%231A1918.svg?&style=flat&logo=cloudformation&logoColor=white)&nbsp;
 ![Teraform](https://img.shields.io/badge/TERRAFORM-946ced.svg?&style=flat&logo=terraform&logoColor=white)&nbsp;\
-![AWS](https://img.shields.io/badge/AWS-%23181717.svg?&style=flat&logo=amazon-web-service&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![GCP](https://img.shields.io/badge/GCP-34a853.svg?&style=flat&logo=google-cloud&logoColor=white)&nbsp;
-![Firebase](https://img.shields.io/badge/FIREBASE-FFA611.svg?&style=flat&logo=firebase&logoColor=white)&nbsp;\
+![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
 ![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
 ![GRAPHQL](https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat&logo=graphql&logoColor=white)&nbsp;\
@@ -50,20 +50,35 @@
 ![MVVM Architecture](https://img.shields.io/badge/MVVM-888888.svg?&style=flat&logoColor=white)&nbsp;
 </details>
 
-![Adama's github stats](https://github-readme-stats.vercel.app/api?username=adamako&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=adamako&layout=compact&theme=tokyonight&hide=html&langs_count=8)
+<details>
+  <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
+  <br/>
 
+![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
+![GO](https://img.shields.io/badge/GO-0095D5.svg?&style=flat&logo=go&logoColor=white)&nbsp;
+![NestJS](https://img.shields.io/badge/NESTJS-E0234E.svg?&style=flat&logo=nestjs&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;\
+![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white)&nbsp;
+![Puppet](https://img.shields.io/badge/PUPPET-FFAE1A.svg?&style=flat&logo=puppet&logoColor=black)&nbsp;
+![GithubActions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat&logo=github-actions&logoColor=white)&nbsp;\
+![GCP](https://img.shields.io/badge/GOOGLE%20CLOUD%20PLATAFORM-4285F4.svg?&style=flat&logo=google-cloud&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
+![XD](https://img.shields.io/badge/XD-FFC0CB.svg?&style=flat&logo=adobe-xd&logoColor=black)&nbsp;
+![Blockchain](https://img.shields.io/badge/BLOCKCHAIN-121D33.svg?&style=flat&logo=blockchain-dot-com&logoColor=white)&nbsp;
+![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=white)&nbsp;
 
-<p>
-<img src="https://github.com/adamako/adamako/blob/master/assets/flutter.svg" width="45" height="45">
-<img src="https://github.com/adamako/adamako/blob/master/assets/solidity.svg" width="45" height="45">
-<img src="https://github.com/adamako/adamako/blob/master/assets/ethereum.svg" width="45" height="45">
-<img src="https://github.com/adamako/adamako/blob/master/assets/cloud.png" width="45" height="45">
-<img src="https://github.com/adamako/adamako/blob/master/assets/kotlin.svg" width="45" height="45">
-<img src="https://github.com/adamako/adamako/blob/master/assets/react.svg" width="45" height="45">
-</p>
+</details>
 
-<p>
-  <img src="https://github.com/lordvins226/lordvins226/blob/master/assets/animation2.gif" width="300" height="300">
-</p>
+<details open>
+  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <br/>   
+    <p>
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com?user=adamako&theme=dark" />
+    </p>
+    <p>
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamako&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamako&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+    </p>
+
+</details>
 
