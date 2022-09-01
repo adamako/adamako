@@ -1,3 +1,5 @@
+<img src="assets/header.svg"></img>
+
 
 ![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
@@ -7,7 +9,7 @@
 [![GitHub Adamako](https://img.shields.io/github/followers/Adamako?label=follow&style=social)](https://github.com/adamako)
 <p>
 <!--   <img src="https://github.com/adamako/lordvins226/blob/master/assets/animation1.gif" width="150" height="200"> -->
-<img src="https://github.com/adamako/adamako/blob/master/assets/Ethereum.gif" width="200" height="150">
+<!-- <img src="https://github.com/adamako/adamako/blob/master/assets/Ethereum.gif" width="200" height="150"> -->
 </p>
 
 [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://github.com/adamako/)
